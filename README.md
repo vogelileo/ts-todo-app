@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# TypeScript TODO App
+
+This is my first approach to typescript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
