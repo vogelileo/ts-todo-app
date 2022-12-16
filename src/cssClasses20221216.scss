@@ -1,0 +1,1338 @@
+/*Margin*/
+
+.m-0 {
+  margin: 0 !important;
+}
+.mr-0 {
+  margin-right: 0 !important;
+}
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+.ml-0 {
+  margin-left: 0 !important;
+}
+.mt-0 {
+  margin-top: 0 !important;
+}
+
+.mr-1 {
+  margin-right: 0.5rem;
+}
+.mr-2 {
+  margin-right: 1rem;
+}
+.mr-3 {
+  margin-right: 2rem;
+}
+.mr-4 {
+  margin-right: 3rem;
+}
+.mr-5 {
+  margin-right: 5rem;
+}
+.mr-6 {
+  margin-right: 7rem;
+}
+
+.mb-1 {
+  margin-bottom: 0.5rem;
+}
+.mb-2 {
+  margin-bottom: 1rem;
+}
+.mb-3 {
+  margin-bottom: 2rem;
+}
+.mb-4 {
+  margin-bottom: 3rem;
+}
+.mb-5 {
+  margin-bottom: 5rem;
+}
+.mb-6 {
+  margin-bottom: 7rem;
+}
+
+.ml-1 {
+  margin-left: 0.5rem;
+}
+.ml-2 {
+  margin-left: 1rem;
+}
+.ml-3 {
+  margin-left: 2rem;
+}
+.ml-4 {
+  margin-left: 3rem;
+}
+.ml-5 {
+  margin-left: 5rem;
+}
+.ml-6 {
+  margin-left: 7rem;
+}
+
+.mt-1 {
+  margin-top: 0.5rem;
+}
+.mt-2 {
+  margin-top: 1rem;
+}
+.mt-3 {
+  margin-top: 2rem;
+}
+.mt-4 {
+  margin-top: 3rem;
+}
+.mt-5 {
+  margin-top: 5rem;
+}
+.mt-6 {
+  margin-top: 7rem;
+}
+
+.m-1 {
+  margin: 0.5rem;
+}
+
+.m-2 {
+  margin: 1rem;
+}
+
+.m-3 {
+  margin: 2rem;
+}
+
+.m-4 {
+  margin: 3rem;
+}
+
+.m-5 {
+  margin: 5rem;
+}
+
+.m-6 {
+  margin: 7rem;
+}
+
+/*Padding*/
+
+.p-0 {
+  padding: 0 !important;
+}
+.pr-0 {
+  padding-right: 0 !important;
+}
+.pb-0 {
+  padding-bottom: 0 !important;
+}
+.pl-0 {
+  padding-left: 0 !important;
+}
+.pt-0 {
+  padding-top: 0 !important;
+}
+
+.pr-1 {
+  padding-right: 0.5rem;
+}
+.pr-2 {
+  padding-right: 1rem;
+}
+.pr-3 {
+  padding-right: 2rem;
+}
+.pr-4 {
+  padding-right: 3rem;
+}
+.pr-5 {
+  padding-right: 5rem;
+}
+.pr-6 {
+  padding-right: 7rem;
+}
+
+.pb-1 {
+  padding-bottom: 0.5rem;
+}
+.pb-2 {
+  padding-bottom: 1rem;
+}
+.pb-3 {
+  padding-bottom: 2rem;
+}
+.pb-4 {
+  padding-bottom: 3rem;
+}
+.pb-5 {
+  padding-bottom: 5rem;
+}
+.pb-6 {
+  padding-bottom: 7rem;
+}
+
+.pl-1 {
+  padding-left: 0.5rem;
+}
+.pl-2 {
+  padding-left: 1rem;
+}
+.pl-3 {
+  padding-left: 2rem;
+}
+.pl-4 {
+  padding-left: 3rem;
+}
+.pl-5 {
+  padding-left: 5rem;
+}
+.pl-6 {
+  padding-left: 7rem;
+}
+
+.pt-1 {
+  padding-top: 0.5rem;
+}
+.pt-2 {
+  padding-top: 1rem;
+}
+.pt-3 {
+  padding-top: 2rem;
+}
+.pt-4 {
+  padding-top: 3rem;
+}
+.pt-5 {
+  padding-top: 5rem;
+}
+.pt-6 {
+  padding-top: 7rem;
+}
+
+.p-1 {
+  padding: 0.5rem;
+}
+
+.p-2 {
+  padding: 1rem;
+}
+
+.p-3 {
+  padding: 2rem;
+}
+
+.p-4 {
+  padding: 3rem;
+}
+
+.p-5 {
+  padding: 5rem;
+}
+
+.p-6 {
+  padding: 7rem;
+}
+
+/*Border*/
+.b1-s {
+  border: 1px solid;
+}
+.b1-s-t {
+  border-top: 1px solid;
+}
+.b1-s-r {
+  border-right: 1px solid;
+}
+.b1-s-b {
+  border-bottom: 1px solid;
+}
+.b1-s-l {
+  border-left: 1px solid;
+}
+
+.b2-s {
+  border: 2px solid;
+}
+.b2-s-t {
+  border-top: 2px solid;
+}
+.b2-s-r {
+  border-right: 2px solid;
+}
+.b2-s-b {
+  border-bottom: 2px solid;
+}
+.b2-s-l {
+  border-left: 2px solid;
+}
+
+.b3-s {
+  border: 3px solid;
+}
+.b3-s-t {
+  border-top: 3px solid;
+}
+.b3-s-r {
+  border-right: 3px solid;
+}
+.b3-s-b {
+  border-bottom: 3px solid;
+}
+.b3-s-l {
+  border-left: 3px solid;
+}
+
+/*Display*/
+
+.d-flex,
+.d-f {
+  display: flex;
+}
+.d-block {
+  display: block;
+}
+.d-grid {
+  display: grid;
+}
+.d-none,
+.d-n {
+  display: none;
+}
+.d-inline-block {
+  display: inline-block;
+}
+
+/*Flex-Options*/
+
+.flex1 {
+  flex: 1;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.flex-grow-1 {
+  flex-grow: 1;
+}
+
+.justify-content-center,
+.f-jc {
+  justify-content: center;
+}
+.justify-content-between,
+.f-jb {
+  justify-content: space-between;
+}
+.justify-content-around,
+.f-ja {
+  justify-content: space-around;
+}
+.justify-content-evenly,
+.f-jse {
+  justify-content: space-evenly;
+}
+.justify-content-start,
+.f-js {
+  justify-content: start;
+}
+.justify-content-end,
+.f-je {
+  justify-content: end;
+}
+
+.align-items-center,
+.f-ac {
+  align-items: center;
+}
+.align-items-start,
+.f-as {
+  align-items: flex-start;
+}
+.align-items-end,
+.f-ae {
+  align-items: flex-end;
+}
+.align-items-stretch,
+.f-ast {
+  align-items: stretch;
+}
+
+.fd-c {
+  flex-direction: column;
+}
+.fd-r {
+  flex-direction: row;
+}
+
+/*Cursor*/
+
+.cursor-pointer {
+  cursor: pointer;
+}
+.cursor-progress {
+  cursor: progress;
+}
+.cursor-notallowed {
+  cursor: not-allowed;
+}
+
+/*IMG*/
+
+.img-h {
+  height: 100%;
+  width: auto;
+}
+.img-w {
+  width: 100%;
+  height: auto;
+}
+
+/*Visibility*/
+
+.vis-visible {
+  visibility: visible;
+}
+.vis-hidden {
+  visibility: hidden;
+}
+.vis-collapse {
+  visibility: collapse;
+}
+
+/*Overflow*/
+
+.overflow-hidden {
+  overflow: hidden;
+}
+.overflow-scroll {
+  overflow: scroll;
+}
+.overflow-auto {
+  overflow: auto;
+}
+
+/*Text-Decoration*/
+
+.deco-underline {
+  text-decoration: underline;
+}
+.deco-line-through {
+  text-decoration: line-through;
+}
+.deco-overline {
+  text-decoration: overline;
+}
+.deco-none {
+  text-decoration: none;
+}
+
+/*Text-Decoration*/
+
+.text-bold {
+  font-weight: bold;
+}
+.text-no-bold {
+  font-weight: normal;
+}
+.text-no-wrap {
+  white-space: nowrap;
+}
+
+.text-align-center {
+  text-align: center;
+}
+.text-align-end {
+  text-align: end;
+}
+.text-align-start {
+  text-align: start;
+}
+
+/*Positions*/
+
+.position-relative {
+  position: relative;
+}
+.position-absolute {
+  position: absolute;
+}
+.position-fixed {
+  position: fixed;
+}
+.position-sticky {
+  position: sticky;
+}
+
+/*Absolut-Values*/
+
+.right-0 {
+  right: 0;
+}
+.right-10 {
+  right: 10px;
+}
+.right-50 {
+  right: 50px;
+}
+.bottom-0 {
+  bottom: 0;
+}
+.bottom-10 {
+  bottom: 10px;
+}
+.bottom-50 {
+  bottom: 50px;
+}
+.left-0 {
+  left: 0;
+}
+.left-10 {
+  left: 10px;
+}
+.left-50 {
+  left: 50px;
+}
+.top-0 {
+  top: 0;
+}
+.top-10 {
+  top: 10px;
+}
+.top-50 {
+  top: 50px;
+}
+
+/*Full-Space*/
+
+.w50p {
+  width: 50%;
+}
+.w100p {
+  width: 100%;
+}
+.h50p {
+  height: 50%;
+}
+.h100p {
+  height: 100%;
+}
+
+/*Grid-Wrapper*/
+
+.bx-wrap,
+.bx--col-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*Colors (IBM)*/
+
+.col-ibm-red-10 {
+  color: #fff1f1;
+}
+.col-ibm-red-20 {
+  color: #ffd7d9;
+}
+.col-ibm-red-30 {
+  color: #ffb3b8;
+}
+.col-ibm-red-40 {
+  color: #ff8389;
+}
+.col-ibm-red-50 {
+  color: #fa4d56;
+}
+.col-ibm-red-60 {
+  color: #da1e28;
+}
+.col-ibm-red-70 {
+  color: #a2191f;
+}
+.col-ibm-red-80 {
+  color: #750e13;
+}
+.col-ibm-red-90 {
+  color: #520408;
+}
+.col-ibm-red-100 {
+  color: #2d0709;
+}
+
+.col-ibm-magenta-10 {
+  color: #fff0f7;
+}
+.col-ibm-magenta-20 {
+  color: #ffd6e8;
+}
+.col-ibm-magenta-30 {
+  color: #ffafd2;
+}
+.col-ibm-magenta-40 {
+  color: #ff7eb6;
+}
+.col-ibm-magenta-50 {
+  color: #ee5396;
+}
+.col-ibm-magenta-60 {
+  color: #d02670;
+}
+.col-ibm-magenta-70 {
+  color: #9f1853;
+}
+.col-ibm-magenta-80 {
+  color: #740937;
+}
+.col-ibm-magenta-90 {
+  color: #510224;
+}
+.col-ibm-magenta-100 {
+  color: #2a0a18;
+}
+
+.col-ibm-purple-10 {
+  color: #f6f2ff;
+}
+.col-ibm-purple-20 {
+  color: #e8daff;
+}
+.col-ibm-purple-30 {
+  color: #d4bbff;
+}
+.col-ibm-purple-40 {
+  color: #be95ff;
+}
+.col-ibm-purple-50 {
+  color: #a56eff;
+}
+.col-ibm-purple-60 {
+  color: #8a3ffc;
+}
+.col-ibm-purple-70 {
+  color: #6929c4;
+}
+.col-ibm-purple-80 {
+  color: #491d8b;
+}
+.col-ibm-purple-90 {
+  color: #31135e;
+}
+.col-ibm-purple-100 {
+  color: #1c0f30;
+}
+
+.col-ibm-blue-10 {
+  color: #edf5ff;
+}
+.col-ibm-blue-20 {
+  color: #d0e2ff;
+}
+.col-ibm-blue-30 {
+  color: #a6c8ff;
+}
+.col-ibm-blue-40 {
+  color: #78a9ff;
+}
+.col-ibm-blue-50 {
+  color: #4589ff;
+}
+.col-ibm-blue-60 {
+  color: #0f62fe;
+}
+.col-ibm-blue-70 {
+  color: #0043ce;
+}
+.col-ibm-blue-80 {
+  color: #002d9c;
+}
+.col-ibm-blue-90 {
+  color: #001d6c;
+}
+.col-ibm-blue-100 {
+  color: #001141;
+}
+
+.col-ibm-cyan-10 {
+  color: #e5f6ff;
+}
+.col-ibm-cyan-20 {
+  color: #bae6ff;
+}
+.col-ibm-cyan-30 {
+  color: #82cfff;
+}
+.col-ibm-cyan-40 {
+  color: #33b1ff;
+}
+.col-ibm-cyan-50 {
+  color: #1192e8;
+}
+.col-ibm-cyan-60 {
+  color: #0072c3;
+}
+.col-ibm-cyan-70 {
+  color: #00539a;
+}
+.col-ibm-cyan-80 {
+  color: #003a6d;
+}
+.col-ibm-cyan-90 {
+  color: #012749;
+}
+.col-ibm-cyan-100 {
+  color: #061727;
+}
+
+.col-ibm-teal-10 {
+  color: #d9fbfb;
+}
+.col-ibm-teal-20 {
+  color: #9ef0f0;
+}
+.col-ibm-teal-30 {
+  color: #3ddbd9;
+}
+.col-ibm-teal-40 {
+  color: #08bdba;
+}
+.col-ibm-teal-50 {
+  color: #009d9a;
+}
+.col-ibm-teal-60 {
+  color: #007d79;
+}
+.col-ibm-teal-70 {
+  color: #005d5d;
+}
+.col-ibm-teal-80 {
+  color: #004144;
+}
+.col-ibm-teal-90 {
+  color: #022b30;
+}
+.col-ibm-teal-100 {
+  color: #081a1c;
+}
+
+.col-ibm-green-10 {
+  color: #defbe6;
+}
+.col-ibm-green-20 {
+  color: #a7f0ba;
+}
+.col-ibm-green-30 {
+  color: #6fdc8c;
+}
+.col-ibm-green-40 {
+  color: #42be65;
+}
+.col-ibm-green-50 {
+  color: #24a148;
+}
+.col-ibm-green-60 {
+  color: #198038;
+}
+.col-ibm-green-70 {
+  color: #0e6027;
+}
+.col-ibm-green-80 {
+  color: #044317;
+}
+.col-ibm-green-90 {
+  color: #022d0d;
+}
+.col-ibm-green-100 {
+  color: #071908;
+}
+
+.col-ibm-gray-10 {
+  color: #f4f4f4;
+}
+.col-ibm-gray-20 {
+  color: #e0e0e0;
+}
+.col-ibm-gray-30 {
+  color: #c6c6c6;
+}
+.col-ibm-gray-40 {
+  color: #a8a8a8;
+}
+.col-ibm-gray-50 {
+  color: #8d8d8d;
+}
+.col-ibm-gray-60 {
+  color: #6f6f6f;
+}
+.col-ibm-gray-70 {
+  color: #525252;
+}
+.col-ibm-gray-80 {
+  color: #393939;
+}
+.col-ibm-gray-90 {
+  color: #262626;
+}
+.col-ibm-gray-100 {
+  color: #161616;
+}
+
+.col-ibm-white,
+.col-fff {
+  color: #fff;
+}
+
+.col-ibm-black,
+.col-000 {
+  color: #000;
+}
+
+/*Background-Colors (IBM)*/
+
+.bcol-ibm-red-10 {
+  background-color: #fff1f1;
+}
+.bcol-ibm-red-20 {
+  background-color: #ffd7d9;
+}
+.bcol-ibm-red-30 {
+  background-color: #ffb3b8;
+}
+.bcol-ibm-red-40 {
+  background-color: #ff8389;
+}
+.bcol-ibm-red-50 {
+  background-color: #fa4d56;
+}
+.bcol-ibm-red-60 {
+  background-color: #da1e28;
+}
+.bcol-ibm-red-70 {
+  background-color: #a2191f;
+}
+.bcol-ibm-red-80 {
+  background-color: #750e13;
+}
+.bcol-ibm-red-90 {
+  background-color: #520408;
+}
+.bcol-ibm-red-100 {
+  background-color: #2d0709;
+}
+
+.bcol-ibm-magenta-10 {
+  background-color: #fff0f7;
+}
+.bcol-ibm-magenta-20 {
+  background-color: #ffd6e8;
+}
+.bcol-ibm-magenta-30 {
+  background-color: #ffafd2;
+}
+.bcol-ibm-magenta-40 {
+  background-color: #ff7eb6;
+}
+.bcol-ibm-magenta-50 {
+  background-color: #ee5396;
+}
+.bcol-ibm-magenta-60 {
+  background-color: #d02670;
+}
+.bcol-ibm-magenta-70 {
+  background-color: #9f1853;
+}
+.bcol-ibm-magenta-80 {
+  background-color: #740937;
+}
+.bcol-ibm-magenta-90 {
+  background-color: #510224;
+}
+.bcol-ibm-magenta-100 {
+  background-color: #2a0a18;
+}
+
+.bcol-ibm-purple-10 {
+  background-color: #f6f2ff;
+}
+.bcol-ibm-purple-20 {
+  background-color: #e8daff;
+}
+.bcol-ibm-purple-30 {
+  background-color: #d4bbff;
+}
+.bcol-ibm-purple-40 {
+  background-color: #be95ff;
+}
+.bcol-ibm-purple-50 {
+  background-color: #a56eff;
+}
+.bcol-ibm-purple-60 {
+  background-color: #8a3ffc;
+}
+.bcol-ibm-purple-70 {
+  background-color: #6929c4;
+}
+.bcol-ibm-purple-80 {
+  background-color: #491d8b;
+}
+.bcol-ibm-purple-90 {
+  background-color: #31135e;
+}
+.bcol-ibm-purple-100 {
+  background-color: #1c0f30;
+}
+
+.bcol-ibm-blue-10 {
+  background-color: #edf5ff;
+}
+.bcol-ibm-blue-20 {
+  background-color: #d0e2ff;
+}
+.bcol-ibm-blue-30 {
+  background-color: #a6c8ff;
+}
+.bcol-ibm-blue-40 {
+  background-color: #78a9ff;
+}
+.bcol-ibm-blue-50 {
+  background-color: #4589ff;
+}
+.bcol-ibm-blue-60 {
+  background-color: #0f62fe;
+}
+.bcol-ibm-blue-70 {
+  background-color: #0043ce;
+}
+.bcol-ibm-blue-80 {
+  background-color: #002d9c;
+}
+.bcol-ibm-blue-90 {
+  background-color: #001d6c;
+}
+.bcol-ibm-blue-100 {
+  background-color: #001141;
+}
+
+.bcol-ibm-cyan-10 {
+  background-color: #e5f6ff;
+}
+.bcol-ibm-cyan-20 {
+  background-color: #bae6ff;
+}
+.bcol-ibm-cyan-30 {
+  background-color: #82cfff;
+}
+.bcol-ibm-cyan-40 {
+  background-color: #33b1ff;
+}
+.bcol-ibm-cyan-50 {
+  background-color: #1192e8;
+}
+.bcol-ibm-cyan-60 {
+  background-color: #0072c3;
+}
+.bcol-ibm-cyan-70 {
+  background-color: #00539a;
+}
+.bcol-ibm-cyan-80 {
+  background-color: #003a6d;
+}
+.bcol-ibm-cyan-90 {
+  background-color: #012749;
+}
+.bcol-ibm-cyan-100 {
+  background-color: #061727;
+}
+
+.bcol-ibm-teal-10 {
+  background-color: #d9fbfb;
+}
+.bcol-ibm-teal-20 {
+  background-color: #9ef0f0;
+}
+.bcol-ibm-teal-30 {
+  background-color: #3ddbd9;
+}
+.bcol-ibm-teal-40 {
+  background-color: #08bdba;
+}
+.bcol-ibm-teal-50 {
+  background-color: #009d9a;
+}
+.bcol-ibm-teal-60 {
+  background-color: #007d79;
+}
+.bcol-ibm-teal-70 {
+  background-color: #005d5d;
+}
+.bcol-ibm-teal-80 {
+  background-color: #004144;
+}
+.bcol-ibm-teal-90 {
+  background-color: #022b30;
+}
+.bcol-ibm-teal-100 {
+  background-color: #081a1c;
+}
+
+.bcol-ibm-green-10 {
+  background-color: #defbe6;
+}
+.bcol-ibm-green-20 {
+  background-color: #a7f0ba;
+}
+.bcol-ibm-green-30 {
+  background-color: #6fdc8c;
+}
+.bcol-ibm-green-40 {
+  background-color: #42be65;
+}
+.bcol-ibm-green-50 {
+  background-color: #24a148;
+}
+.bcol-ibm-green-60 {
+  background-color: #198038;
+}
+.bcol-ibm-green-70 {
+  background-color: #0e6027;
+}
+.bcol-ibm-green-80 {
+  background-color: #044317;
+}
+.bcol-ibm-green-90 {
+  background-color: #022d0d;
+}
+.bcol-ibm-green-100 {
+  background-color: #071908;
+}
+
+.bcol-ibm-gray-10 {
+  background-color: #f4f4f4;
+}
+.bcol-ibm-gray-20 {
+  background-color: #e0e0e0;
+}
+.bcol-ibm-gray-30 {
+  background-color: #c6c6c6;
+}
+.bcol-ibm-gray-40 {
+  background-color: #a8a8a8;
+}
+.bcol-ibm-gray-50 {
+  background-color: #8d8d8d;
+}
+.bcol-ibm-gray-60 {
+  background-color: #6f6f6f;
+}
+.bcol-ibm-gray-70 {
+  background-color: #525252;
+}
+.bcol-ibm-gray-80 {
+  background-color: #393939;
+}
+.bcol-ibm-gray-90 {
+  background-color: #262626;
+}
+.bcol-ibm-gray-100 {
+  background-color: #161616;
+}
+
+.bcol-ibm-white,
+.bcol-fff {
+  background-color: #fff;
+}
+
+.bcol-ibm-black,
+.bcol-000 {
+  background-color: #000;
+}
+
+/*Border-Colors (IBM)*/
+
+.borcol-ibm-red-10 {
+  color: #fff1f1;
+}
+.borcol-ibm-red-20 {
+  color: #ffd7d9;
+}
+.borcol-ibm-red-30 {
+  color: #ffb3b8;
+}
+.borcol-ibm-red-40 {
+  color: #ff8389;
+}
+.borcol-ibm-red-50 {
+  color: #fa4d56;
+}
+.borcol-ibm-red-60 {
+  color: #da1e28;
+}
+.borcol-ibm-red-70 {
+  color: #a2191f;
+}
+.borcol-ibm-red-80 {
+  color: #750e13;
+}
+.borcol-ibm-red-90 {
+  color: #520408;
+}
+.borcol-ibm-red-100 {
+  color: #2d0709;
+}
+
+.borcol-ibm-magenta-10 {
+  color: #fff0f7;
+}
+.borcol-ibm-magenta-20 {
+  color: #ffd6e8;
+}
+.borcol-ibm-magenta-30 {
+  color: #ffafd2;
+}
+.borcol-ibm-magenta-40 {
+  color: #ff7eb6;
+}
+.borcol-ibm-magenta-50 {
+  color: #ee5396;
+}
+.borcol-ibm-magenta-60 {
+  color: #d02670;
+}
+.borcol-ibm-magenta-70 {
+  color: #9f1853;
+}
+.borcol-ibm-magenta-80 {
+  color: #740937;
+}
+.borcol-ibm-magenta-90 {
+  color: #510224;
+}
+.borcol-ibm-magenta-100 {
+  color: #2a0a18;
+}
+
+.borcol-ibm-purple-10 {
+  color: #f6f2ff;
+}
+.borcol-ibm-purple-20 {
+  color: #e8daff;
+}
+.borcol-ibm-purple-30 {
+  color: #d4bbff;
+}
+.borcol-ibm-purple-40 {
+  color: #be95ff;
+}
+.borcol-ibm-purple-50 {
+  color: #a56eff;
+}
+.borcol-ibm-purple-60 {
+  color: #8a3ffc;
+}
+.borcol-ibm-purple-70 {
+  color: #6929c4;
+}
+.borcol-ibm-purple-80 {
+  color: #491d8b;
+}
+.borcol-ibm-purple-90 {
+  color: #31135e;
+}
+.borcol-ibm-purple-100 {
+  color: #1c0f30;
+}
+
+.borcol-ibm-blue-10 {
+  color: #edf5ff;
+}
+.borcol-ibm-blue-20 {
+  color: #d0e2ff;
+}
+.borcol-ibm-blue-30 {
+  color: #a6c8ff;
+}
+.borcol-ibm-blue-40 {
+  color: #78a9ff;
+}
+.borcol-ibm-blue-50 {
+  color: #4589ff;
+}
+.borcol-ibm-blue-60 {
+  color: #0f62fe;
+}
+.borcol-ibm-blue-70 {
+  color: #0043ce;
+}
+.borcol-ibm-blue-80 {
+  color: #002d9c;
+}
+.borcol-ibm-blue-90 {
+  color: #001d6c;
+}
+.borcol-ibm-blue-100 {
+  color: #001141;
+}
+
+.borcol-ibm-cyan-10 {
+  color: #e5f6ff;
+}
+.borcol-ibm-cyan-20 {
+  color: #bae6ff;
+}
+.borcol-ibm-cyan-30 {
+  color: #82cfff;
+}
+.borcol-ibm-cyan-40 {
+  color: #33b1ff;
+}
+.borcol-ibm-cyan-50 {
+  color: #1192e8;
+}
+.borcol-ibm-cyan-60 {
+  color: #0072c3;
+}
+.borcol-ibm-cyan-70 {
+  color: #00539a;
+}
+.borcol-ibm-cyan-80 {
+  color: #003a6d;
+}
+.borcol-ibm-cyan-90 {
+  color: #012749;
+}
+.borcol-ibm-cyan-100 {
+  color: #061727;
+}
+
+.borcol-ibm-teal-10 {
+  color: #d9fbfb;
+}
+.borcol-ibm-teal-20 {
+  color: #9ef0f0;
+}
+.borcol-ibm-teal-30 {
+  color: #3ddbd9;
+}
+.borcol-ibm-teal-40 {
+  color: #08bdba;
+}
+.borcol-ibm-teal-50 {
+  color: #009d9a;
+}
+.borcol-ibm-teal-60 {
+  color: #007d79;
+}
+.borcol-ibm-teal-70 {
+  color: #005d5d;
+}
+.borcol-ibm-teal-80 {
+  color: #004144;
+}
+.borcol-ibm-teal-90 {
+  color: #022b30;
+}
+.borcol-ibm-teal-100 {
+  color: #081a1c;
+}
+
+.borcol-ibm-green-10 {
+  color: #defbe6;
+}
+.borcol-ibm-green-20 {
+  color: #a7f0ba;
+}
+.borcol-ibm-green-30 {
+  color: #6fdc8c;
+}
+.borcol-ibm-green-40 {
+  color: #42be65;
+}
+.borcol-ibm-green-50 {
+  color: #24a148;
+}
+.borcol-ibm-green-60 {
+  color: #198038;
+}
+.borcol-ibm-green-70 {
+  color: #0e6027;
+}
+.borcol-ibm-green-80 {
+  color: #044317;
+}
+.borcol-ibm-green-90 {
+  color: #022d0d;
+}
+.borcol-ibm-green-100 {
+  color: #071908;
+}
+
+.borcol-ibm-gray-10 {
+  color: #f4f4f4;
+}
+.borcol-ibm-gray-20 {
+  color: #e0e0e0;
+}
+.borcol-ibm-gray-30 {
+  color: #c6c6c6;
+}
+.borcol-ibm-gray-40 {
+  color: #a8a8a8;
+}
+.borcol-ibm-gray-50 {
+  color: #8d8d8d;
+}
+.borcol-ibm-gray-60 {
+  color: #6f6f6f;
+}
+.borcol-ibm-gray-70 {
+  color: #525252;
+}
+.borcol-ibm-gray-80 {
+  color: #393939;
+}
+.borcol-ibm-gray-90 {
+  color: #262626;
+}
+.borcol-ibm-gray-100 {
+  color: #161616;
+}
+
+.borcol-ibm-white,
+.borcol-fff {
+  color: #fff;
+}
+
+.borcol-ibm-black,
+.borcol-000 {
+  color: #000;
+}
+
+/*onHover*/
+
+.hov-deco-underline:hover {
+  text-decoration: underline;
+}
+
+/*VisibleOn*/
+
+.on-mobile,
+.on-tablet,
+.on-desktop {
+  display: none;
+}
+
+@media screen and (max-width: 42rem) and (min-width: 0rem) {
+  .on-mobile {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 66rem) and (min-width: 42rem) {
+  .on-tablet {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 66rem) {
+  .on-desktop {
+    display: block;
+  }
+}
